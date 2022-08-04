@@ -1,7 +1,7 @@
 ---
 slug: visual thinking in developer advocacy
 title: The Role of Visual Thinking In Developer Advocacy
-tags: [sprouts, developer advocacy]
+tags: [plants, developer advocacy]
 ---
 
 ## Using Visual Thinking to Teach
