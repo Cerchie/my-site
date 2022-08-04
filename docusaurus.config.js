@@ -61,6 +61,11 @@ const config = {
                         label: 'About Me',
                         position: 'left',
                     },
+                    {
+                        to: '/work-with-me',
+                        label: 'Work With Me',
+                        position: 'left',
+                    },
                 ],
             },
             footer: {

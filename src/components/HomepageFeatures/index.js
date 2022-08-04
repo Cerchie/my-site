@@ -18,13 +18,15 @@ function Feature({ Svg, title, description }) {
                 width="150"
                 id="lucia-pic"
             ></img>
-            <h3>{title}</h3>
-            <p>{description}</p>
-            <p>
-                I believe in a human-centered developer experience, in the
-                teaching responsibility of developer advocates, and in the joy
-                of learning.
-            </p>
+            <div className="homepage-text">
+                <h1 className="hometitle">{title}</h1>
+                <p className="homepara">{description}</p>
+                <p className="homepara">
+                    I believe in a human-centered developer experience, in the
+                    teaching responsibility of developer advocates, and in the
+                    joy of learning.
+                </p>
+            </div>
         </div>
     )
 }
