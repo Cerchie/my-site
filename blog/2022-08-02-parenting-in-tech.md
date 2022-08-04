@@ -24,7 +24,7 @@ I actually found that this made it easier, not harder, to narrow down opportunit
 
 The other big thing to remember is that parenting is not limiting. Yes, you won't make the same choices as you did before. But you will make choices based on a new aspect of your life that will enrich it.
 
-And, it's ok to make choices based simply on what you want. There's a lot of pressure on parents to do the "right" thing, but the most important thing is to take care of yourself so you can be there for your kid. For me, that meant quitting breastfeeding as soon as the pandemic shortages abated (my daughter was a week or so old at the time). Why? Simply because I wanted to. In many cases, that is enough.
+And, it's ok to make choices based simply on what you want. There's a lot of pressure on parents to do the "right" thing, but the most important thing is to take care of yourself so you can be there for your kid.
 
 ## 'What aligns with my joy?' vs 'What do others think I should do?'
 

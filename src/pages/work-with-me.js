@@ -7,8 +7,8 @@ export default function MyReactPage() {
             <h1 className="h-page">Work With Me</h1>
             <p className="p-page">
                 If you're interested in working with me in any of the capacities
-                listed below, email me: <i>luciacerchie</i> at <i>gmail.com</i>,
-                or contact me using one of my social profiles.
+                listed below, email me: <i>luciacerchie</i> at <i>gmail.com</i>.
+                Or, contact me using one of my social profiles.
             </p>
             <h3 className="h-page">Full-time roles</h3>
             <p className="p-page">

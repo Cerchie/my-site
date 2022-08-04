@@ -9,8 +9,8 @@ export default function MyReactPage() {
                 In the summer of 2015 I flew, bussed, and accidentally
                 hitch-hiked to the city of Phoenix to sign the papers for my
                 first job in an elementary school classroom. I spent the next 4
-                years mostly teaching 2-10 year-olds how to read. All the while,
-                I was growing in my understanding of how humans learn.
+                years teaching 2-10 year-olds how to read. All the while, I was
+                growing in my understanding of how humans learn.
             </p>
             <p className="p-page">
                 In 2018, I pivoted to digital marketing. I had the opportunity
