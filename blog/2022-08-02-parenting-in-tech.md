@@ -35,3 +35,7 @@ There's a lot of pressure on developers and parents to behave in very particular
 If your joy is found in a life pattern that's not attainable yet, you can make small daily changes to work towards your goal. If there's another tech subfield you want to work in, make a goal to talk to one person in that field per week. If you want to have a job that's more flexible and allows you to pick up your kid from school early, apply to one of those jobs a week.
 
 We all know that a life that aligns with your inner peace is not necessarily easy. There's a lot of external turmoil in the world. It can be exhausting, scary, and downright overwhelming to be a parent, especially a new parent, in tech. But it's a lot easier when you pay attention to what you, as a whole person, delight in.
+
+### Caveat
+
+There are a lot of systemic issues out there that make life difficult for caregivers. This post is not intended to say you can solve all those difficulties with an attitude adjustment. Laws and cultural expectations need changing. This post is solely intended to help with any internal friction you may be experiencing, since these thoughts have helped me.
