@@ -22,7 +22,7 @@ This is power of visual thinking. It's important in all aspects of teaching. In 
 
 ## Using Visual Thinking to Plan Projects
 
-Let's say I were a developer advocate who was planning a tutorial to introduce developers to a new SDK (Software Development Kit). Say that this SDK provides the developer with a type of hyperaccurate timestamp. To show the purpose of the SDK, I use the framework that I used to build this website, [docusaurus.io](https://docusaurus.io/). I'm also really excited about the docusaurus CLI (Command Line Interface), so I'll describe how to use that to view the pages in development. I'll draw a map of what I'm doing.
+Let's say I were a developer advocate who was planning a tutorial to introduce developers to a new SDK (Software Development Kit). Say that this SDK provides the developer with a type of hyperaccurate timestamp. To show the purpose of the SDK, I use it in the framework that I used to build this website, [docusaurus.io](https://docusaurus.io/). I'm also really excited about the docusaurus CLI (Command Line Interface), so I'll describe how to use that to view the pages in development. I'll draw a map of what I'm doing.
 
 ![Three stacked blocks representing steps, only one with SDK mentioned](./map1.png)
 

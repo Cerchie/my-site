@@ -29,12 +29,6 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-#lucia-pic {
-    margin-top: 2em;
-    margin-left: -25em;
-    border-radius: 5px;
-}
-
 .hero {
     display: flex;
     font-family: gill sans, sans-serif;
@@ -45,7 +39,9 @@ main {
     max-width: 60%;
     width: 100%;
 }
-
+#lucia-pic {
+    border-radius: 50%;
+}
 section {
     padding-left: 2rem;
     color: white;
@@ -58,69 +54,4 @@ section {
     border: 2px solid #000;
     margin-bottom: 4rem;
     margin-right: 2rem;
-}
-
-.homepara {
-    margin-left: 14em;
-    text-align: start;
-}
-.homepage-text {
-    margin-top: -12em;
-}
-
-.hometitle {
-    margin-left: 1em;
-}
-
-@media (max-width: 480px) {
-    .homepara {
-        margin: 0 auto;
-        padding: 0 auto;
-    }
-
-    .homepage-text {
-        margin: 0 auto;
-        padding: 0 auto;
-    }
-    section {
-        margin-left: -1em;
-        margin-right: 1em;
-        margin-top: -3em;
-    }
-    #lucia-pic {
-        display: none;
-    }
-    .hometitle {
-        margin: 0 auto;
-    }
-}
-
-@media (max-width: 1000px) {
-    .homepara {
-        margin: 0 auto;
-        padding: 0 auto;
-    }
-
-    .homepage-text {
-        margin: 1em;
-        padding: 0 auto;
-    }
-    section {
-        margin-left: -1em;
-        margin-right: 1em;
-        margin-top: -3em;
-    }
-    #lucia-pic {
-        display: none;
-    }
-    .hometitle {
-        margin: 1em;
-    }
-    .p-page {
-        margin: 1em;
-    }
-
-    .h-page {
-        margin: 1em;
-    }
 }

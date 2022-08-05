@@ -5,22 +5,23 @@ import styles from './styles.module.css'
 const FeatureList = [
     {
         title: 'Lucia Cerchie',
-        description: <>Developer Advocate. 🎤 Yogi. 🥨 Toddler mom. 🐥 </>,
+        description: <>Developer Advocate. 🎤 Yogi. 🥨 Morning person. ☀️ </>,
     },
 ]
 
 function Feature({ Svg, title, description }) {
     return (
         <div className="text--center padding-horiz--md">
-            <img
-                alt="Lucia's headshot"
-                src="img/lucia.png"
-                width="150"
-                id="lucia-pic"
-            ></img>
             <div className="homepage-text">
                 <h1 className="hometitle">{title}</h1>
+                <img
+                    alt="Lucia's headshot"
+                    src="img/lucia.png"
+                    width="150"
+                    id="lucia-pic"
+                ></img>
                 <p className="homepara">{description}</p>
+
                 <p className="homepara">
                     I believe in a human-centered developer experience, in the
                     teaching responsibility of developer advocates, and in the
