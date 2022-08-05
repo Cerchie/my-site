@@ -116,12 +116,11 @@ section {
     .hometitle {
         margin: 1em;
     }
-}
+    .p-page {
+        margin: 1em;
+    }
 
-.p-page {
-    margin: 1em;
-}
-
-.h-page {
-    margin: 1em;
+    .h-page {
+        margin: 1em;
+    }
 }
