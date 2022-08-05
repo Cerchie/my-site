@@ -18,7 +18,7 @@ Whew. That's already a mouthful, and we haven't even finished the roof yet.
 
 Without a single word, you understand how to draw a house in a moment or two.
 
-This is power of visual thinking. It's important in all aspects of teaching. In developer advocacy, it can be used to teach audiences with graphs and maps and videos (of course, audio must also be supplied). Visual thinking can also help developer advocates create the constraints they need to be creative. I think this is the less obvious point, so let's talk about it.
+This is power of visual thinking. It's important in all fields of teaching. In developer advocacy, it can be used to teach audiences with graphs and maps and videos (of course, audio must also be supplied). Visual thinking can also help developer advocates create the constraints they need to be creative. I think this is the less obvious point, so let's talk about it.
 
 ## Using Visual Thinking to Plan Projects
 
