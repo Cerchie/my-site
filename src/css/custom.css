@@ -55,3 +55,11 @@ section {
     margin-bottom: 4rem;
     margin-right: 2rem;
 }
+
+.p-page {
+    margin-left: 2em;
+}
+.h-page {
+    margin-left: 1em;
+    margin-top: 2em;
+}

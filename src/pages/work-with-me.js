@@ -4,12 +4,25 @@ import Layout from '@theme/Layout'
 export default function MyReactPage() {
     return (
         <Layout>
-            <h1 className="h-page">Work With Me</h1>
+            <h1 className="h-page">Get In Touch</h1>
             <p className="p-page">
                 If you're interested in working with me in any of the capacities
                 listed below, email me: <i>luciacerchie</i> at <i>gmail.com</i>.
                 Or, contact me using one of my social profiles.
             </p>
+            <ul className="p-page">
+                <li>
+                    <a href="https://www.linkedin.com/in/luciacerchie/">
+                        LinkedIn
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Cerchie">GitHub</a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/CerchieLucia">Twitter</a>
+                </li>
+            </ul>
             <h3 className="h-page">Full-time roles</h3>
             <p className="p-page">
                 I'm currently open to a full-time role in developer advocacy! If
@@ -43,7 +56,7 @@ export default function MyReactPage() {
             </p>
             <h3 className="h-page">Talks</h3>
             <p className="p-page">
-                I'm currently available to speak virtually.
+                I'm currently available to speak at your event!
             </p>
         </Layout>
     )

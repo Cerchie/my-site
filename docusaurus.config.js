@@ -63,7 +63,7 @@ const config = {
                     },
                     {
                         to: '/work-with-me',
-                        label: 'Work With Me',
+                        label: 'Get In Touch',
                         position: 'left',
                     },
                 ],
