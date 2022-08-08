@@ -32,7 +32,9 @@ Hm. That's a lot of real estate devoted to docusaurus. Only one step is devoted 
 
 There. I've planned my tutorial and given it a good focus, using visual thinking!
 
-## Conclusion
+## Where To Go From Here
+
+I hope this has given you some good ideas about how to use visual thinking in your own approach to developer advocacy. It's helped me, in that it's given me some 'shortcuts' to project planning and also helped me communicate concepts more clearly to my audiences.
 
 If you're interested in learning more about visual thinking, I highly recommend these resources:
 
