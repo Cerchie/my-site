@@ -1,5 +1,5 @@
 ---
-slug: parenting in tech
+slug: parenting-in-tech
 title: Parenting In Tech
 tags: [sprouts, parenting]
 ---

@@ -1,5 +1,5 @@
 ---
-slug: visual thinking in developer advocacy
+slug: visual-thinking-in-developer-advocacy
 title: The Role of Visual Thinking In Developer Advocacy
 tags: [plants, developer advocacy]
 ---

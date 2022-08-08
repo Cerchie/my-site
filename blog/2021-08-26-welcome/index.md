@@ -1,5 +1,5 @@
 ---
-slug: Welcome to my garden
+slug: Welcome-to-my-garden
 title: Welcome to my garden
 tags: [welcome, seeds, sprouts, trees]
 ---
