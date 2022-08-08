@@ -52,7 +52,7 @@ const config = {
                 title: 'Lucia Cerchie',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/floral.png',
+                    src: 'img/floral.avif',
                 },
                 items: [
                     { to: '/blog', label: 'Digital Garden', position: 'left' },
