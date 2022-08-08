@@ -104,6 +104,7 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
+            metadata: [{ name: 'twitter:card', content: 'title' }],
         }),
 }
 
