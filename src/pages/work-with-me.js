@@ -30,29 +30,13 @@ export default function MyReactPage() {
             </p>
             <h3 className="h-page">Blog Posts</h3>
             <p className="p-page">
-                I write how-to's and tutorials. In the past, I've written for
-                <ul>
-                    <li>
-                        <a href="https://stepzen.com/blog/using-vercels-middleware-and-graphql">
-                            StepZen
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://arctype.com/blog/postgres-uuid/">
-                            Arctype
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.a11yproject.com/posts/text-resizing-in-ios-and-android/">
-                            The A11Y Project
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://learn.codesee.io/getting-your-bearings/">
-                            Codesee
-                        </a>
-                    </li>
-                </ul>
+                I write how-to's and tutorials. In the past, I've written for{' '}
+                <a href="https://stepzen.com/">StepZen</a>,{' '}
+                <a href="https://arctype.com/">Arctype</a>,{' '}
+                <a href="https://www.a11yproject.com//">The A11Y Project</a>,{' '}
+                and <a href="https://learn.codesee.io/">Codesee</a>. View my{' '}
+                <a href="/publications">publications page </a>for a list of my
+                articles.
             </p>
             <h3 className="h-page">Talks</h3>
             <p className="p-page">

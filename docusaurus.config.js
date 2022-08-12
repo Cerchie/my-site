@@ -66,6 +66,11 @@ const config = {
                         label: 'Get In Touch',
                         position: 'left',
                     },
+                    {
+                        to: '/publications',
+                        label: 'Publications',
+                        position: 'left',
+                    },
                 ],
             },
             footer: {
