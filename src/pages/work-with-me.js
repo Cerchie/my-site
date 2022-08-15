@@ -23,12 +23,12 @@ export default function MyReactPage() {
                     <a href="https://twitter.com/CerchieLucia">Twitter</a>
                 </li>
             </ul>
-            <h3 className="h-page">Full-time roles</h3>
+            <h2 className="h-page">Full-time roles</h2>
             <p className="p-page">
                 I'm currently open to a full-time role in developer advocacy! If
                 you've got an opening, contact me.
             </p>
-            <h3 className="h-page">Blog Posts</h3>
+            <h2 className="h-page">Blog Posts</h2>
             <p className="p-page">
                 I write how-to's and tutorials. In the past, I've written for{' '}
                 <a href="https://stepzen.com/">StepZen</a>,{' '}
@@ -38,7 +38,7 @@ export default function MyReactPage() {
                 <a href="/publications">publications page </a>for a list of my
                 articles.
             </p>
-            <h3 className="h-page">Talks</h3>
+            <h2 className="h-page">Talks</h2>
             <p className="p-page">
                 I'm currently available to speak at your event!
             </p>
