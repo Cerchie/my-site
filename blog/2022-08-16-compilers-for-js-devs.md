@@ -20,7 +20,7 @@ Create exercises in JS, HTML, and CSS for developers to complete.
 
 ### Section 3: Compilers In The Wild
 
-Break down what happens when you run JavaScript -- doesn't need to be compiled to be executable since browsers have a JS parser. TypeScript, however, as a superset of JS, needs to be compiled to JS!
+Break down what happens when you run a TS compiling command -- doesn't need to be compiled to be executable since browsers have a JS parser. TypeScript, however, as a superset of JS, needs to be compiled to JS!
 
 ## Resources:
 
