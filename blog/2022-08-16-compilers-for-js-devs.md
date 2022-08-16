@@ -24,8 +24,12 @@ Break down what happens when you run a TS compiling command -- doesn't need to b
 
 ## Resources:
 
-[AST explorer](https://astexplorer.net/)
-[Twilio Blog Post on Compilers](https://www.twilio.com/blog/abstract-syntax-trees#:~:text=Abstract%20Syntax%20Trees%20or%20ASTs,Lexical%20Analysis
-https://webplatform.github.io/docs/tutorials/your_first_look_at_javascript/)
-[Red Hat podcast with Thorsten Ball](https://www.redhat.com/en/compiler-podcast/compilers)
-[Maggie Appleton's Illustration](https://maggieappleton.com/compilers)
+-   [AST explorer](https://astexplorer.net/)
+
+-   [Twilio Blog Post on Compilers](https://www.twilio.com/blog/abstract-syntax-trees#:~:text=Abstract%20Syntax%20Trees%20or%20ASTs,Lexical%20Analysis)
+
+-   [First Look at JS](https://webplatform.github.io/docs/tutorials/your_first_look_at_javascript/)
+
+-   [Red Hat podcast with Thorsten Ball](https://www.redhat.com/en/compiler-podcast/compilers)
+
+-   [Maggie Appleton's Illustration](https://maggieappleton.com/compilers)
