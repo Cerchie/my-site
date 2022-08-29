@@ -109,7 +109,10 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
-            metadata: [{ name: 'twitter:card', content: 'title' }],
+            metadata: [
+                { name: 'twitter:card', content: 'title' },
+                { name: 'twitter:image', content: 'https://ibb.co/z7fNyt0' },
+            ],
         }),
 }
 
