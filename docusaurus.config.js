@@ -112,6 +112,11 @@ const config = {
             metadata: [
                 { name: 'twitter:card', content: 'summary' },
                 { name: 'twitter:image', content: 'https://ibb.co/z7fNyt0' },
+                { name: 'twitter:title', content: 'Lucia Cerchie' },
+                {
+                    name: 'twitter:description',
+                    content: 'content from the website of Lucia Cerchie',
+                },
             ],
         }),
 }
