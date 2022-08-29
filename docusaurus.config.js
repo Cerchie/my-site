@@ -117,6 +117,11 @@ const config = {
                     name: 'twitter:description',
                     content: 'content from the website of Lucia Cerchie',
                 },
+                {
+                    name: 'twitter:image:alt',
+                    content:
+                        'screenshot of homepage displaying profile picture',
+                },
             ],
         }),
 }
