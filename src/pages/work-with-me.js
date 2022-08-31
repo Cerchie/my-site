@@ -38,6 +38,15 @@ export default function MyReactPage() {
                 <a href="/publications">publications page </a>for a list of my
                 articles.
             </p>
+            <h2 className="h-page">Sponsor Me on GitHub</h2>
+            <p className="p-page">
+                <iframe
+                    src="https://github.com/sponsors/Cerchie/card"
+                    title="Sponsor Cerchie"
+                    height="225"
+                    width="600"
+                ></iframe>
+            </p>
             <h2 className="h-page">Talks</h2>
             <p className="p-page">
                 I'm currently available to speak at your event!
