@@ -65,10 +65,6 @@ You can read more about it in auth0's [resource](https://auth0.com/docs/get-star
 
 [This flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-proof-key-for-code-exchange-pkce) is designed for SPAs and for mobile apps. Since these apps cannot store a Client Secret because it would then be exposed through either the browser or decompilation, auth0 recommends this alternative PKCE approach. The PKCE flow accepts a value from the calling app called a Code Challenge. It is a transform value of a secret called a Code Verifier, and without this original value an attacker would not be able to exchange it for a valid token.
 
-### Implicit Flow with Form Post
-
-If you're working with a mobile app and the only thing you want to implement is login functionality, you can work with something called [Implicit Flow with Form Post](https://auth0.com/docs/get-started/authentication-and-authorization-flow/implicit-flow-with-form-post). There's no backend calls and no need to store secrets in your app.
-
 ## Conclusion
 
-I hope this post has given you a good big picture of how auth0 works! It's good to start with the type of application (Machine to machine? Mobile? SPA? Traditional?) and then identify the type of flow you need before you implement. If you have any more questions about implementation details, you can always head over to the [auth0 docs](https://auth0.com/docs/).
+I hope this post has given you a good big picture of how auth0 works! It's good to start with the type of application (Machine to machine? Mobile? SPA? Traditional?) and then identify the type of flow you need before you implement. If you have any more questions about implementation details, you can always head over to the [auth0 docs](https://auth0.com/docs/). Of course, I'll be writing more blog posts on this topic in tutorial-style. 😉
