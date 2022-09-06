@@ -49,7 +49,7 @@ Now that you've been introduced to auth0 and the types of apps it integrates wit
 
 For example, sometimes the person that needs authorization is not a person at all -- it's a machine! If you're not familiar with this type of scenario, think of CLIS ([Command Line Interfaces](https://en.wikipedia.org/wiki/Command-line_interface)), and similar services.
 
-auth0 has designed a flow implementation for this called the [Client Credentials Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/client-credentials-flow). A [client credentials flow](https://www.rfc-editor.org/rfc/rfc6749#section-4.4) flow is appropriate when the client happens to be requesting access to requested resources which are also under its control, so when the flow is implement, the client only uses the client credentials to request access.
+auth0 has designed a flow implementation for this called the [Client Credentials Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/client-credentials-flow). A [client credentials flow](https://www.rfc-editor.org/rfc/rfc6749#section-4.4) flow is appropriate when the client happens to be requesting access to requested resources which are also under its control, so when the flow is implemented, the client only uses the client credentials to request access.
 
 ### Authorization Code Flow
 
