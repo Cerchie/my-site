@@ -6,9 +6,9 @@ tags: [trees, kafka, kafka-basics]
 
 # Introduction
 
-A couple weeks ago I started a brand new role: Developer Advocate at Confluent. So far I’ve been gladdened by stepping fully into an area of tech that satisfies my teaching heart. I’ve also felt supported by my new teammates. I’m new to the Kafka scene, with a background in JavaScript and GraphQL. In order to help onboard me smoothly, my teammates are meeting with me frequently, checking in on my progress (they even reviewed this article 😉), and are helping me select material from Confluent’s abundance of resources to learn Kafka. 
+A couple weeks ago I started a brand new role: Developer Advocate at [Confluent](https://www.confluent.io/). So far I’ve been gladdened by stepping fully into an area of tech that satisfies my teaching heart. I’ve also felt supported by my new teammates. I’m new to the Kafka scene, with a background in JavaScript and GraphQL. In order to help onboard me smoothly, my teammates are meeting with me frequently, checking in on my progress (they even reviewed this article 😉), and are helping me select material from Confluent’s abundance of resources to learn Kafka. 
 
-My first step in my learning journey was this course on Kafka 101. I took notes throughout the course, which broke Kafka down to its core concepts. I'll share the synthesis of those notes below in hopes that if you're coming from a similar background, you'll find it useful!
+My first step in my learning journey was this [course](https://developer.confluent.io/learn-kafka/apache-kafka/events/) on Kafka 101. I took notes throughout the course, which broke Kafka down to its core concepts. I'll share the synthesis of those notes below in hopes that if you're coming from a similar background, you'll find it useful!
 
 # What is Kafka?
 
@@ -35,7 +35,7 @@ Kafka serializes these pairs into a structured format like JSON, Avro, or Protob
 
 ![screenshot of page using a rectangular shape to illustrate the above words](./log.png)
 
-At a high level, topics are ways of organizing events. They are programmatic logs of events, as opposed to application logs. You can see this article by Jay Kreps to learn more about the difference. Logs have 3 noteworthy aspects:
+At a high level, topics are ways of organizing events. They are programmatic logs of events, as opposed to application logs. You can see this [article by Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) to learn more about the difference. Logs have 3 noteworthy aspects:
 
 They are append-only. New messages are only applied to the end of a log. They can't be inserted—unlike with a different structure (like a graph).
 You can't change events in a log. This was important for me to wrap my head around since I was coming from a GraphQL background, and you can certainly mutate data objects using GraphQL.
@@ -52,10 +52,10 @@ Ok, cool, but where are these events and logs kept so I can access them? Are the
 Logs are hosted and replicated across a cluster of machines, rather than clogging up one machine 🪠. 
 Partitions make this possible. They take a single topic log and break it up into multiple logs.
 
-Now, how are messages written to partitions? If the messages are keyless, they'll be assigned one after the other until the last partition is reached, in which case the process starts from the top. Messages which have keys are assigned to partitions holding messages with the same keys. Kafka does this by hashing the key and using a mod function. If you want to take a deep dive into partitions, you can read this blog post by Ricardo Ferreira that examines them from the perspective of both developers and data ops.
+Now, how are messages written to partitions? If the messages are keyless, they'll be assigned one after the other until the last partition is reached, in which case the process starts from the top. Messages which have keys are assigned to partitions holding messages with the same keys. Kafka does this by hashing the key and using a [mod function](https://research.cs.vt.edu/AVresearch/hashing/modfunc.php). If you want to take a deep dive into partitions, you can read this [blog post by Ricardo Ferreira](https://riferrei.com/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/) that examines them from the perspective of both developers and data ops.
 
 # What is a Producer?
-The producer sends the key value pairs to the clusters, managing the interaction between brokers over a network. Incidentally, producers are also responsible for message assignment to partitions. You can view a producer instance created with the Confluent client in Python in the Confluent Developer website.
+The producer sends the key value pairs to the clusters, managing the interaction between brokers over a network. Incidentally, producers are also responsible for message assignment to partitions. You can view a producer instance created with the Confluent client in Python in the [Confluent Developer website](https://developer.confluent.io/get-started/python/#build-producer).
 
 
 ```python
@@ -74,7 +74,7 @@ A Kafka consumer reads the data from the stream. Many independent consumers can 
 
 ![screenshot of page using a rectangular shape to illustrate the above words](./consumer.png)
 
-Consumers handle scaling automatically. You can see how to instantiate a consumer instance in Node.JS on the Confluent Developer "Getting Started" tutorial.
+Consumers handle scaling automatically. You can see how to instantiate a consumer instance in Node.JS on the Confluent Developer ["Getting Started" tutorial](https://developer.confluent.io/get-started/nodejs/#build-consumer).
 
 ```javascript
 function createConsumer(config, onData) {
