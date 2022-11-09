@@ -36,10 +36,6 @@ export default function MyReactPage() {
                     </a>
                 </li>
             </ul>
-            <p className="p-page">
-                If you'd like to contract me for an article or for
-                documentation, email me at: luciacerchie <i>at</i> gmail.com
-            </p>
         </Layout>
     )
 }
