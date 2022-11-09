@@ -23,11 +23,6 @@ export default function MyReactPage() {
                     <a href="https://twitter.com/CerchieLucia">Twitter</a>
                 </li>
             </ul>
-            <h2 className="h-page">Full-time roles</h2>
-            <p className="p-page">
-                I'm currently open to a full-time role in developer advocacy! If
-                you've got an opening, contact me.
-            </p>
             <h2 className="h-page">Blog Posts</h2>
             <p className="p-page">
                 I write how-to's and tutorials. In the past, I've written for{' '}
@@ -37,15 +32,6 @@ export default function MyReactPage() {
                 and <a href="https://learn.codesee.io/">Codesee</a>. View my{' '}
                 <a href="/publications">publications page </a>for a list of my
                 articles.
-            </p>
-            <h2 className="h-page">Sponsor Me on GitHub</h2>
-            <p className="p-page">
-                <iframe
-                    src="https://github.com/sponsors/Cerchie/card"
-                    title="Sponsor Cerchie"
-                    height="225"
-                    width="600"
-                ></iframe>
             </p>
             <h2 className="h-page">Talks</h2>
             <p className="p-page">
