@@ -4,7 +4,7 @@ title: Welcome to my garden
 tags: [welcome, seeds, sprouts, trees]
 ---
 
-This is my digital garden! I've organized the content by tags:
+This is my blog! I've organized the content by tags:
 
 [seeds](/blog/tags/seeds) - These are notes and half-baked thoughts.
 

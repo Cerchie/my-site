@@ -50,7 +50,7 @@ const config = {
                     src: 'img/floral.png',
                 },
                 items: [
-                    { to: '/blog', label: 'Digital Garden', position: 'left' },
+                    { to: '/blog', label: 'Blog', position: 'left' },
                     {
                         to: '/about',
                         label: 'About Me',
@@ -92,7 +92,7 @@ const config = {
                         title: 'Articles, Musings, and Notes',
                         items: [
                             {
-                                label: 'Digital Garden',
+                                label: 'Blog',
                                 to: '/blog',
                             },
                         ],
