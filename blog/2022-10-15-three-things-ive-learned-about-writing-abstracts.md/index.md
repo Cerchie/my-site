@@ -29,7 +29,7 @@ Take a look at the abstract once more.
 
 There's "we", "you", and "my" here. Consistency is key in all writing, but for talks, you might choose "we" over other options to reflect a sense of comraderie with the audience. 
 
-## 3. Let your solution for the audience's pain point be condensed and clear. 
+## 3. Let your solution for the audience's pain point be clear. 
 
 Currently, the solution that the speaker offers is vague:
 
