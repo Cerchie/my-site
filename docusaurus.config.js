@@ -66,6 +66,11 @@ const config = {
                         label: 'Publications',
                         position: 'left',
                     },
+                    {
+                        to: '/colors',
+                        label: 'Website Colors',
+                        position: 'left',
+                    },
                 ],
             },
             footer: {

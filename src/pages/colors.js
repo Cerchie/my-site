@@ -10,7 +10,7 @@ export default function MyReactPage() {
                 <text style={{ color: '#84b1ae' }}>
                     {' '}
                     crystallized verdigris
-                </text>
+                </text>{' '}
                 and <text style={{ color: '#6b1f2e' }}>shellac</text> created by
                 a 17th century Dutch artist named A. Boogert. You can view more
                 of the colors and see them in JSON format at C82:{' '}
