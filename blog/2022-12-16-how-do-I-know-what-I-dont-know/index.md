@@ -20,7 +20,7 @@ It doesn't get more accurate than that. I'm not kidding. "What you don't know" w
 
 ## Stage 2: One Instance of a Concept
 
-So there are these things called universal concepts. Definitions that we all agree on. For example, an API according to Wikipedia is
+So let's consider universal concepts. Definitions that we all agree on. For example, an API [according to Wikipedia](https://en.wikipedia.org/wiki/API) is
 
 "An application programming interface (API) is a way for two or more computer programs to communicate with each other."
 
