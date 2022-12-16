@@ -4,7 +4,7 @@ title: A Framework For Knowing What You Don't Know
 tags: [sprouts, developer advocacy, tech, learning]
 ---
 
-Over my career I've had to learn new things many, many times. I've been an elementary school teacher, a digital marketer, a software engineer, and now I'm a full-time develepor advocate. Over and over again, I've had to learn completely new concepts. It's great; it keeps me humble, it keeps me happy. There's a lot of dopamine involved in learning. But one of the most difficult parts of learning is _knowing what you don't know_. And knowing what you don't know is important, because it keeps you from making the types of mistakes that emanate from errors in judgment.
+Over my career I've had to learn new things many, many times. I've been an elementary school teacher, a digital marketer, a software engineer, and now I'm a full-time developer advocate. Over and over again, I've had to learn completely new concepts. It's great; it keeps me humble, it keeps me happy. There's a lot of dopamine involved in learning. But one of the most difficult parts of learning is _knowing what you don't know_. And knowing what you don't know is important, because it keeps you from making the types of mistakes that emanate from errors in judgment.
 
 I've learned a couple of things about defining the limits of my knowledge about a concept. I'm sharing my framework here in case it's helpful to anyone else in tech.
 
