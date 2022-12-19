@@ -22,6 +22,11 @@ export default function MyReactPage() {
                 day after I graduated.
             </p>
             <p className="p-page">I've been coding and teaching ever since.</p>
+
+            <a rel="me" href="https://data-folks.masto.host/@Cerchie">
+                Mastodon
+            </a>
+            <a href="https://github.com/Cerchie">GitHub</a>
         </Layout>
     )
 }
