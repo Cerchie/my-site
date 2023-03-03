@@ -1,6 +1,6 @@
 ---
-slug: kafka-summit-london-5k-fun-run
-title: Kafka Summit London 2023: The 5k Fun Run! 
+slug: kafka-summit-london-5-k-fun-run
+title: Kafka Summit London 2023 - The 5k Fun Run! 
 tags: [fun, developer advocacy, 5k]
 ---
 
