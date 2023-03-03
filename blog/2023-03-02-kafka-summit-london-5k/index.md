@@ -22,6 +22,8 @@ Where will we start: We'll start and end at the [Aloft](https://www.marriott.com
 
 What time? We'll meet at 6:15 in the hotel foyer for pictures, and then take off at 6:30! If you're walking, it won't take more than an hour, so you'll be back at the hotel in time to get ready for more conference fun! 
 
+Ok, what day though? May 16th! 
+
 ## No Registration Required
 
 This is not an official run so no sign-up is required! Just show up if you're feeling like exercising away some of that morning fog or jetlag :) 
