@@ -16,11 +16,11 @@ Hopefully we'll see a crowd with both new and familiar faces this year!
 
 ## The Details: 
 
-Who's invited: Anyone who would like to! We will have an experienced runner taking the role of lead runner, and I will be taking the 5k at a walking pace at the back. No matter your experience level, you'll have company! 
+<b> Who's invited: </b> Anyone who would like to! We will have an experienced runner taking the role of lead runner, and I will be taking the 5k at a walking pace at the back. No matter your experience level, you'll have company! 
 
-Where will we start: We'll start and end at the [Aloft](https://www.marriott.com/en-us/hotels/lonal-aloft-london-excel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) London hotel. We've plotted a [route](https://www.plotaroute.com/route/2190007) here that can be broken up into sections. If you don't think you'll make it in an hour, you can turn back over the bridge. Otherwise, you can do the last 1.5km. 
+<b> Where will we start:  </b> We'll start and end at the [Aloft](https://www.marriott.com/en-us/hotels/lonal-aloft-london-excel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) London hotel. We've plotted a [route](https://www.plotaroute.com/route/2190007) here that can be broken up into sections. If you don't think you'll make it in an hour, you can turn back over the bridge. Otherwise, you can do the last 1.5km. 
 
-What time? We'll meet at 6:15 in the hotel foyer for pictures, and then take off at 6:30! If you're walking, it won't take more than an hour, so you'll be back at the hotel in time to get ready for more conference fun! 
+<b> What time? </b> We'll meet at 6:15 in the hotel foyer for pictures, and then take off at 6:30! If you're walking, it won't take more than an hour, so you'll be back at the hotel in time to get ready for more conference fun! 
 
 Ok, what day though? May 16th! 
 
