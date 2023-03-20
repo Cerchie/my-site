@@ -8,11 +8,11 @@ tags: [fun, developer advocacy, 5k]
 
 At [Kafka Summit London 2023](https://www.kafka-summit.org/events/kafka-summit-london-2023/about) some of us will be going on a run (or walk-- that'll be my speed!) and all are welcome! 
 
-Here's a picture of the hale and hearty participants from last year's KSL Fun Run: 
+Here's a picture of the participants from last year's KSL Fun Run: 
 
 ![Group of twenty or so people wearing running clothes and smiling.](./summit-run.jpeg)
 
-Hopefully we'll see a similar crowd this year! 
+Hopefully we'll see a crowd with both new and familiar faces this year! 
 
 ## The Details: 
 
