@@ -26,11 +26,11 @@ We'll start and end at the [Aloft](https://www.marriott.com/en-us/hotels/lonal-a
 
 ### What time?
 
-We'll meet at 6:15 in the hotel foyer for pictures, and then take off at 6:30! If you're walking, it won't take more than an hour, so you'll be back at the hotel in time to get ready for more conference fun! 
+We'll meet at 6:30-45am in the hotel foyer for pictures, and then take off at 7am! If you're walking, it won't take more than an hour, so you'll be back at the hotel in time to get ready for more conference fun! 
 
 ### Ok, what day though? 
 
-May 16th! At 6:15am in the hotel foyer of the Aloft.
+May 16th! At 7am in the hotel foyer of the Aloft.
 
 ## No Registration Required
 
