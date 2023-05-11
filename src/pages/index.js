@@ -14,6 +14,11 @@ function HomepageHeader() {
             <div className="container">
                 <h1 className="hero__title"></h1>
                 <div className={styles.buttons}> </div>
+                <script
+                    defer
+                    data-domain="luciacerchie.dev"
+                    src="https://plausible.io/js/script.js"
+                ></script>
             </div>
         </header>
     )
